@@ -31,32 +31,26 @@ The dataset of Data Professional Survey (https://t.ly/oBTVD) contains the follow
 - Q11 Which Country do you live in?: Country where the surveyee lives.
 
 ### Tools
-- MySQL for exploratory data analysis.
-- Tableau for data visualization.
+- Power Query for Data Cleaning
+- Power BI for Data Visualization
 
 ### Methodology
 
 #### 1. Data Collection and Preparation
 
-The data cleaning was done in the [Layoffs Data Cleaning Project](https://github.com/galaes/layoffs-data-cleaning/blob/3c1c60ecad47e0939bf8d2c2489d68079a5c21eb/README.md), which includes:
+The data cleaning done in Power Query includes:
 - Data loading and inspection
+- Removing of unneccesary columns
 - Handling missing and duplicate values
-- Standardizing the structure of the data   
+- Transforming values for easy analysis
 
-#### 2. Descriptive Analysis
-
-The analysis includes answers to questions such as:
-
-<img src="images/Ranking.png" width="25%" alt="images">
-
-
-#### 3. Data Visualization
+#### 2. Data Visualization
 
 [Dashboard Tableau](https://public.tableau.com/views/WordlwideLayoffsfrom2020-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![images](images/Tableau.png)
 
-#### 4. Insights and Findings
+#### 3. Insights and Findings
 
 - The highest peaks of total worldwide layoffs between March 2020 and March 2023 were in November 2022, with 53,451, and in January 2023, with 84,714.
 - The consumer industry was the hardest hit for the period under study, with 45,182 layoffs, followed by the retail sector with 43,613 layoffs.

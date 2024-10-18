@@ -54,6 +54,6 @@ The data cleaning done in Power Query includes:
 
 - Data Scientists and Engineers are the top earners in the industry, with $94K and 65K, respectively, but satisfaction with salary is only moderate. 
 - Work and personal life balance seems better rated than salary satisfaction.
-- According to the respondents, Breaking into the data field is easy (easy and very easy represents 46.52% compared to 33.77% for difficult and very difficult).
+- According to the respondents, breaking into the data field is easy (easy and very easy represents 46.52% compared to 33.77% for difficult and very difficult).
 - Python is the most popular programming language, cementing its role as a key tool in the data profession.
   

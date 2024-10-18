@@ -46,9 +46,10 @@ The data cleaning done in Power Query includes:
 
 #### 2. Data Visualization
 
-[Dashboard Tableau](https://public.tableau.com/views/WordlwideLayoffsfrom2020-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard Power BI](https://github.com/galaes/Data-Professionals-Survey-Analysis/blob/ed7275d1b3cbaef4a2feb063c11661958e2b1bec/Data%20Professional%20Survey%20Dashboard.pbix)
 
-![images](images/Tableau.png)
+<img src="images/Dashboard.png" width="90%" alt="images">
+
 
 #### 3. Insights and Findings
 

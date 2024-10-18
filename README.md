@@ -50,10 +50,10 @@ The data cleaning done in Power Query includes:
 
 <img src="images/Dashboard.png" width="90%" alt="images">
 
-
 #### 3. Insights and Findings
 
-- The highest peaks of total worldwide layoffs between March 2020 and March 2023 were in November 2022, with 53,451, and in January 2023, with 84,714.
-- The consumer industry was the hardest hit for the period under study, with 45,182 layoffs, followed by the retail sector with 43,613 layoffs.
-- Amazon, Google, and Meta were the top three companies with the most layoffs globally, with 18, 150, 12,000, and 11,000, respectively.
-- This explains why the United States has the highest number of layoffs in the world, with 256,059 total layoffs between March 2020 and 2023.
+- Data Scientists and Engineers are the top earners in the industry, with $94K and 65K respectively, but satisfaction with salary is only moderate. 
+- The balance between work and personal life seems better rated than salary satisfaction.
+- Breaking into the data field is easy (easy and very easy represents 46.52% compared to 33.77% for difficult and very difficult) acording to the respondents.
+- Python is the most popular programming language by far, cementing its role as a key tool in the data profession.
+  
